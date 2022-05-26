@@ -5,6 +5,6 @@ Just put your english words list in "words.txt" and put translate of each word i
 
 Launch:
 
-1. **cd** _engUpgrade_
+- **cd** _engUpgrade_
 
-2. **lua** _engUpgrade.lua_
+- **lua** _engUpgrade.lua_
